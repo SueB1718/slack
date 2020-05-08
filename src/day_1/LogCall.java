@@ -7,5 +7,7 @@ public class LogCall {
         //  users are able to call through slack
         
         //This line is added from Github
+        
+        // Another line is added from Github
     }
 }
